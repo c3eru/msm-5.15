@@ -47,4 +47,3 @@ function build_defconfig_fragments() {
 	fi
 }
 build_defconfig_fragments
-. ${ROOT_DIR}/qcom/proprietary/kernel-tests-internal/build.config.kernel-tests
